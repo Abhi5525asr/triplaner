@@ -1,0 +1,7 @@
+{
+  "name": "TripSplit - Inspired Expense Tracker",
+  "description": "A high-fidelity, mobile-first trip expense tracker with a modern Swiggy-inspired design, focusing on speed and group clarity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
